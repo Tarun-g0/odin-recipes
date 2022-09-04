@@ -1,0 +1,25 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+}
+
+.image,
+.heading{
+    text-align: center;
+}
+
+.heading{
+    color: black;
+    background-color: violet;
+}
+
+.image-size{
+height: auto;
+width: 400px;
+}
+
+.recipies-list li{
+    color: brown;
+    size: 46px;
+    font-weight: 700;
+    }
